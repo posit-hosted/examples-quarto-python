@@ -16,6 +16,10 @@ This example Quarto with Python dashboard highlights macroeconomic trends over t
 * Jupyter Notebooks
 * R Markdown
 
+## Click image and publish to Connect Cloud
+[<img src="https://github.com/user-attachments/assets/56bf627c-d419-41d1-b325-0980b6975aa3">](https://connect.posit.cloud/publish?contentType=quarto&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Fposit-hosted%2Fexamples-quarto-python&sourceRef=main&sourceRefType=branch&primaryFile=dashboard.qmd&pythonVersion=3.11)
+
+
 Create a [free account](https://connect.posit.cloud/), visit the [documentation](https://docs.posit.co/connect-cloud/), and join the [community](https://forum.posit.co/c/posit-professional-hosted/posit-connect-cloud/67). 
 
 
